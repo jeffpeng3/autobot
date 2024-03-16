@@ -27,9 +27,11 @@ class Bot:
         )
         self.page = self.browser.new_page()
         stealth_sync(self.page)
+        self.page.goto('https://checkip.amazonaws.com')
+        print(self.page.content())
 
     def visit(self):
-        self.page.goto(self.url)
+        self.page.goto(self.url,timeout=80000)
         for i in range(15):
             self.page.mouse.wheel(0, 500 * random())
             time.sleep(random())

@@ -7,8 +7,9 @@ n=0
 
 while true
 do
-	python3 fetch.py
-	python3 refreship.py
+	echo "Round $n start."
+	python3 -u fetch.py 
+	python3 -u refreship.py
+	echo "Round $n end."
 	n=$(( n+1 ))
-	echo $n
 done
