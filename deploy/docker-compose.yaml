@@ -1,0 +1,41 @@
+services:
+  auto0:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto1:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto2:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto3:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto4:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto5:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto6:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto7:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto8:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto9:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto10:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto11:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto12:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto13:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto14:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto15:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto16:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto17:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto18:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto19:
+    image: ghcr.io/jeffpeng3/autobot:main
