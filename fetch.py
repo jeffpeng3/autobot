@@ -46,7 +46,10 @@ class Bot:
 
 
 if __name__ == "__main__":
-    bot = Bot()
-    for i in range(randint(1,5)):
-        bot.visit()
-    bot.browser.close()
+    try:
+        bot = Bot()
+        for i in range(randint(1,5)):
+            bot.visit()
+        bot.browser.close()
+    except Exception:
+        print('error exit')
