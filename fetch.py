@@ -45,6 +45,7 @@ class Bot:
         self.page.context.clear_cookies()
 
 
+
 if __name__ == "__main__":
     try:
         bot = Bot()
