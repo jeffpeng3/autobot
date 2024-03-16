@@ -14,8 +14,8 @@ RUN playwright install --with-deps chromium
 RUN apt-get clean
 ADD torrc /etc/tor/torrc
 COPY ./entrypoint.sh /scripts/entrypoint.sh
-COPY ./fetch.py /scripts/fetch.py
 COPY ./refreship.py /scripts/refreship.py
 RUN chmod +x entrypoint.sh
+COPY ./fetch.py /scripts/fetch.py
 ENTRYPOINT ["sh","/scripts/entrypoint.sh"]
 CMD ["bash"]
