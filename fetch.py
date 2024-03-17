@@ -2,7 +2,7 @@ import time
 from playwright.sync_api import sync_playwright
 from playwright_stealth import stealth_sync
 from my_fake_useragent import UserAgent
-from random import random,randint
+from random import random,randint,choice
 
 
 class Bot:
@@ -10,7 +10,7 @@ class Bot:
         ua = UserAgent(family="chrome")
         user_agent = ua.random()
         self.proxy = "socks5://127.0.0.1:9050"
-        self.url = "https://www.wpgdadatong.com/solution/detail/73994"
+        self.url = ["https://www.wpgdadatong.com/blog/detail/74045","https://www.wpgdadatong.com/solution/detail/73994"]
         self.refer = (
             "https://www.wpgdadatong.com/campus-channel/YOSUN-CampusHack?type=article"
         )
@@ -31,7 +31,7 @@ class Bot:
         print(self.page.content())
 
     def visit(self):
-        self.page.goto(self.url,timeout=80000)
+        self.page.goto(choice(self.url),referer=self.refer,timeout=80000)
         for i in range(15):
             self.page.mouse.wheel(0, 500 * random())
             time.sleep(random())

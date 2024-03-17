@@ -39,3 +39,123 @@ services:
     image: ghcr.io/jeffpeng3/autobot:main
   auto19:
     image: ghcr.io/jeffpeng3/autobot:main
+  auto20:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto21:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto22:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto23:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto24:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto25:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto26:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto27:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto28:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto29:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto30:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto31:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto32:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto33:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto34:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto35:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto36:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto37:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto38:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto39:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto40:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto41:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto42:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto43:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto44:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto45:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto46:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto47:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto48:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto49:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto50:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto51:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto52:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto53:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto54:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto55:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto56:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto57:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto58:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto59:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto60:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto61:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto62:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto63:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto64:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto65:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto66:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto67:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto68:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto69:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto70:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto71:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto72:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto73:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto74:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto75:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto76:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto77:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto78:
+    image: ghcr.io/jeffpeng3/autobot:main
+  auto79:
+    image: ghcr.io/jeffpeng3/autobot:main
