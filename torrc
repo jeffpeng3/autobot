@@ -3,4 +3,4 @@ SocksPort 0.0.0.0:9050
 ControlPort  0.0.0.0:9051
 #HashedControlPassword 16:x
 
-ExitNodes {tw},{cn},{jp} StrictNodes 1
+ExitNodes {tw},{cn},{jp} StrictNodes 0
