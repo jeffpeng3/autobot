@@ -10,7 +10,7 @@ class Bot:
         ua = UserAgent(family="chrome")
         user_agent = ua.random()
         self.proxy = "socks5://127.0.0.1:9050"
-        self.url = ["https://www.wpgdadatong.com/blog/detail/74045","https://www.wpgdadatong.com/solution/detail/73994"]
+        self.url = ["https://www.wpgdadatong.com/blog/detail/74045"]
         self.refer = (
             "https://www.wpgdadatong.com/campus-channel/YOSUN-CampusHack?type=article"
         )
